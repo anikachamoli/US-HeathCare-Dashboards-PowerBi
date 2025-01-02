@@ -26,7 +26,30 @@ This repository contains a project focused on analyzing hospital datasets to tra
 - **Gross Expenses by CPT Grouping**: Visualized as a pie chart showing the distribution of expenses across different CPT codes.
 - **Critical Hospital Metrics Overview**: A table displaying hospital-specific metrics such as ARGE ratio, IPT ratio, and provider specialties.
 
-![alt text](hospitalDashboard.png)
+# Patient Outcome Analysis Dashboard
+- **Distinct Patients**: 5,092  
+- **Total Patients Enrolled**: 83.60K  
+- **Average Patient Age**: 44.63 years  
+- **Covered States**: 49  
+- **Total Cities**: 531  
+
+### Key Insights:
+- **Lifestyle Factors**:  
+  - Tobacco users: 12.06%  
+  - Alcohol consumers: 37.02%  
+  - Regular exercise: 35.04%  
+  - Healthy diet: 25%  
+- **Gender Distribution**: Female (2,989), Male (2,103)  
+- **Top Blood Group**: O+
+
+### Visuals:
+- Map showing patient distribution by state.  
+- Charts summarizing key metrics like tobacco, diet, alcohol use, and exercise.  
+
+
+![hospital dashboard](hospitalDashboard.png)
+
+![patient dashboard](patientDashboard.png)
 
 ### Achievable Dashboards
 - **Patient Demographics Dashboard**: Visualizing the distribution of patients based on demographics such as age, gender, location, and health behaviors.
