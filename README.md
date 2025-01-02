@@ -26,6 +26,9 @@ This repository contains a project focused on analyzing hospital datasets to tra
 - **Gross Expenses by CPT Grouping**: Visualized as a pie chart showing the distribution of expenses across different CPT codes.
 - **Critical Hospital Metrics Overview**: A table displaying hospital-specific metrics such as ARGE ratio, IPT ratio, and provider specialties.
 
+![hospital dashboard](hospitalDashboard.png)
+
+
 # Patient Outcome Analysis Dashboard
 - **Distinct Patients**: 5,092  
 - **Total Patients Enrolled**: 83.60K  
@@ -46,13 +49,9 @@ This repository contains a project focused on analyzing hospital datasets to tra
 - Map showing patient distribution by state.  
 - Charts summarizing key metrics like tobacco, diet, alcohol use, and exercise.  
 
-
-![hospital dashboard](hospitalDashboard.png)
-
 ![patient dashboard](patientDashboard.png)
 
 ### Achievable Dashboards
-- **Patient Demographics Dashboard**: Visualizing the distribution of patients based on demographics such as age, gender, location, and health behaviors.
 - **Physician Performance Dashboard**: Tracking physician metrics like specialties, provider FTE, and ARGE ratio.
 - **Transaction and Revenue Dashboard**: Analyzing payments, adjustments, and outstanding AR across hospitals.
 - **CPT Code Analysis Dashboard**: Visualizing the frequency and cost distribution of different CPT codes used across hospitals.
